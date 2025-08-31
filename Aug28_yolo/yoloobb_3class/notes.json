@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Control"
+    },
+    {
+      "id": 1,
+      "name": "Stripe"
+    },
+    {
+      "id": 2,
+      "name": "Test"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
