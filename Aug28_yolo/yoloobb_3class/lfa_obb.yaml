@@ -1,9 +1,6 @@
 # Auto-generated for YOLOv8-OBB
-path: /Users/vegligi/Documents/All Your Desktop Groups Files/个人/🐙 GitHub/color_stripe_calibration/Aug28_yolo/YOLOOBB
+path: D:/Git/color_stripe_calibration/Aug28_yolo/yoloobb_3class
 train: images/train
 val: images/val
-test: images/val  # optional; use val as test for now
-names: {0: 'Control', 1: 'Test', 2: 'Stripe'}
-roboflow:
-  workspace: ''
-  project: ''
+test: images/val
+names: [Control, Stripe, Test]
